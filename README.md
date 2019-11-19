@@ -1,1 +1,2 @@
-# AIHub
+## Using AI to analyze employee hiring models
+Using AutoAI from IBM, we are able to create an AI that can automatically judge whether a candidate is someone which would be good to hire or not. It can grab and compile all the data of past employees and current ones, and determine the best cultural fit based on the personal characteristics. This is very useful for sifting through hundreds/thousands of employee applications. 
